@@ -1,5 +1,5 @@
 # cSharp-Survival-Guide
-This Unity project consist of lots senses each sense is dedicated to cover one topics of programming.
+This Unity project consist of lots scenes each scene is dedicated to cover one topics of programming.
 
 This project cover 
 beginner level programming
